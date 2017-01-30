@@ -1,4 +1,7 @@
 first document
 second line
 
+something new on branch-1 for conflict
+
 second developer on master
+
