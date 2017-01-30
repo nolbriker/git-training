@@ -5,9 +5,3 @@ something new on branch-1 for conflict
 
 second developer on master
 
-confict
-
-0
-1
-2
-3
