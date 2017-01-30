@@ -5,4 +5,4 @@ something new on branch-1 for conflict
 
 second developer on master
 
-hurra I got this new feature working
+hurra I got this new feature working! pusblished!
